@@ -12,4 +12,3 @@ Amazing landing pages:
 * [Gumroad](https://gumroad.com/)
 * [QDesign](https://qclay.design/)
 * [Five PathWays](https://fivepathways.com/)
-* 
