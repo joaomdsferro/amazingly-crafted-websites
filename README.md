@@ -10,6 +10,7 @@ Amazing overall desing:
 Amazing landing pages:
 
 * [Gumroad](https://gumroad.com/)
+* [Ciridae](https://www.ciridae.com/)
 * [QDesign](https://qclay.design/)
 * [Five PathWays](https://fivepathways.com/)
 * [Raycast](https://www.raycast.com/)
